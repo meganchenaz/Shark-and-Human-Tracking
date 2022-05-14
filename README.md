@@ -38,4 +38,4 @@ The function gets called in the last line of object_tracking.py (Line 233). Here
 
 Note that the video needs to be in the same folder as the object_tracking.py file!
 
-Once you've customized the function call, run object_tracking.py in the terminal. 
+Once you've customized the function call, run object_tracking.py :)

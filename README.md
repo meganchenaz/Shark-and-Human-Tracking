@@ -1,6 +1,6 @@
 # Shark-and-Human-Tracking
 **CSCI 153 Final Project** <br>
-For my final project, I have created a program that can identify and track sharks and humans in consecutive frames of a drone video sequence. This repository contains files that are necessary to run this program. <br>
+For my final project, I created a program that can identify and track sharks and humans in consecutive frames of a drone video sequence. This repository contains the files that are necessary to run my program. <br>
 
 To use the program, install Python and OpenCV. <br>
 

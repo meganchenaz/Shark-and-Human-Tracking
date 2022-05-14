@@ -37,3 +37,5 @@ The function gets called in the last line of object_tracking.py (Line 233). Here
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; object_tracker("20210812_JamesWithShark.mp4", show_video = False, save_info = True, save_video = True, measure_success = False)
 
 Note that the video needs to be in the same folder as the object_tracking.py file!
+
+Once you've customized the function call, run object_tracking.py in the terminal. 
